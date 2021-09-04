@@ -1,0 +1,43 @@
+commit 0da85be8a1df26c447c5730169a6772196f14415
+Author: Ivan Romanov <ivanosess@gmail.com>
+Date:   Sat Sep 4 14:19:59 2021 +0500
+
+    Add prerelease.txt
+
+commit 3945db57b41441250dc846a4d7644cea738bdffb
+Author: Ivan Romanov <ivanosess@gmail.com>
+Date:   Sat Sep 4 14:18:36 2021 +0500
+
+    Add test.txt
+
+commit 9a06491d7d424e112e7014c7feb1c314ffd8ea2d
+Author: Ivan Romanov <ivanosess@gmail.com>
+Date:   Sat Sep 4 14:10:55 2021 +0500
+
+    Ignoring tmp files
+
+commit e3160ac8c6b9e476d55623040a0deb5d420ff441
+Author: Ivan Romanov <ivanosess@gmail.com>
+Date:   Sat Sep 4 14:08:32 2021 +0500
+
+    Revert "My second commit EDITED"
+    
+    This reverts commit 9df06ff4eb960a73081001078a4abf21fc4a0542.
+
+commit c23771370d9046a17d8f2a7f97b39662f870a0fc
+Author: Ivan Romanov <ivanosess@gmail.com>
+Date:   Sat Sep 4 14:06:15 2021 +0500
+
+    My third commit
+
+commit 9df06ff4eb960a73081001078a4abf21fc4a0542
+Author: Ivan Romanov <ivanosess@gmail.com>
+Date:   Sat Sep 4 14:01:19 2021 +0500
+
+    My second commit EDITED
+
+commit d53d5d72d46348dd9f05ff725df780794fdbfaeb
+Author: Ivan Romanov <ivanosess@gmail.com>
+Date:   Sat Sep 4 13:57:54 2021 +0500
+
+    My first commit
